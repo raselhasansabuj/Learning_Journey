@@ -182,5 +182,5 @@ This is a personal learning repository, but suggestions are welcome. To propose 
 
 Replace this section with your name and links, for example:
 
-- GitHub: [@your-raselhasansabuj](https://github.com/raselhasansabuj)
+- GitHub: [@raselhasansabuj](https://github.com/raselhasansabuj)
 - Email: raselhasansabuj@gmail.com
